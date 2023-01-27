@@ -211,12 +211,7 @@ SERIVCES STARTS HERE**/
 }
 
 .box:hover {
-	margin: 1em;
-	background: url(./image/service_one.jpg);
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	margin-bottom: 2em;
+	transform: translateY(2%);
 }
 
 
