@@ -212,6 +212,8 @@ SERIVCES STARTS HERE**/
 
 .box:hover {
 	transform: translateY(2%);
+	overflow: hidden;
+	
 }
 
 
