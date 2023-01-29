@@ -154,7 +154,7 @@ SERIVCES STARTS HERE**/
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-
+}
 .box:hover {
 	transform: translateY(2%);
 	overflow: hidden;
