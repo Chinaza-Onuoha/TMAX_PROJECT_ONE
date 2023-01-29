@@ -53,7 +53,7 @@ Landing image starts here
 */
 
 .landing_img_bg {
-	background: url("./image/tech.jpg");
+	background: url("./image/bg_four.jpg");
 	min-width: 100vw;
 	min-height: 100vh;
 	background-position: center;
