@@ -147,12 +147,19 @@ SERIVCES STARTS HERE**/
 	background-repeat: no-repeat;
 } */
 
+
 .box_one {
 	margin: 1em;
 	background: url(./image/energy.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
+
+.box:hover {
+	transform: translateY(2%);
+	overflow: hidden;
+	
+
 }
 
 .box_two {
@@ -305,6 +312,7 @@ footer h2 {
 iframe {
 	filter: invert(100%);
 }
+
 
 /**Style for different screen size*/
 
@@ -611,3 +619,4 @@ LANDING IMAGE ENDS HERE*/
 		height: 500px;
 	}
 }
+
