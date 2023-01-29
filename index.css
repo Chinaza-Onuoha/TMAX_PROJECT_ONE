@@ -197,8 +197,8 @@ SERIVCES STARTS HERE**/
 
 .box:hover {
 	transform: translateY(2%);
-	transition: ease-in 20ms;
-	overflow-y: hidden;
+	overflow: hidden;
+	
 }
 
 .box_item {
